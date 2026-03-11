@@ -37,6 +37,12 @@ Stratejik planlama, veri analizi ve yazılım süreçlerini harmanlamayı seven 
 
 ---
 
+### 📈 GitHub İstatistiklerim
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AsilDogukanSamay&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+### 🛠️ Kullandığım Teknolojiler
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsilDogukanSamay&layout=compact&theme=radical" alt="Top Langs" />
 </p>
