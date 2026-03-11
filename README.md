@@ -38,5 +38,5 @@ Stratejik planlama, veri analizi ve yazılım süreçlerini harmanlamayı seven 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GAsilDogukanSamay&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsilDogukanSamay&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
