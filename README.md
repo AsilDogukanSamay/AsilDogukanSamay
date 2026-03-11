@@ -1,48 +1,50 @@
-# Selamlar, ben Asil Doğukan Samay! 👋
+# Hi there, I'm Asil Doğukan Samay! 👋
 
-**Yönetim Bilişim Sistemleri (MIS) Öğrencisi | Yazılım Geliştirici & Ürün Yönetimi Adayı**
+**Management Information Systems (MIS) Student | Aspiring Software Developer & Product Manager**
 
-Stratejik planlama, veri analizi ve yazılım süreçlerini harmanlamayı seven bir MIS öğrencisiyim. Siber güvenlikten ürün yönetimine kadar geniş bir teknik yelpazede deneyim kazanırken; operasyonel verimlilik, süreç optimizasyonu ve kullanıcı deneyimi odaklı çözümler üretmeye odaklanıyorum.
-
----
-
-### 🚀 Hakkımda
-- 💡 **İnovasyon:** Koçtaş S.T.E.P. programında **"Koçtaş Kids"** projesi ile **birincilik** ödülü kazandım.
-- 💻 **Ürün Yönetimi:** Agile metodolojilerle sprint takibi ve ekipler arası koordinasyon konularında deneyimliyim.
-- 🛡️ **Siber Güvenlik:** BT sistemleri analizi ve teknik raporlama süreçlerinde pratik tecrübeye sahibim.
-- 📈 **İş Geliştirme:** B2B pazarlama stratejileri ve pazar araştırması konularında çalıştım.
+I am an MIS student passionate about bridging the gap between business strategy and technical execution. With a background in product management, cybersecurity, and data analysis, I focus on creating data-driven solutions and optimizing operational workflows for better user experiences.
 
 ---
 
-### 🛠️ Deneyim Yolculuğum
-- **Medibulut:** Ürün yönetimi, CRM veri analizi ve operasyonel verimlilik.
-- **Softtech:** Agile süreçlerde sprint takibi ve metrik raporlama.
-- **Koçtaş:** Saha operasyonları, ürün yerleşimi ve ödüllü proje geliştirme.
-- **Locomar:** B2B pazarlama süreçleri ve iş geliştirme asistanlığı.
-- **Vitriol:** Siber güvenlik stajı ve teknik raporlama.
-- **DenizBank:** Bankacılık operasyonları ve finans sektörü içgörüleri.
+### 🚀 Highlights
+- 💡 **Innovation:** Awarded **1st Place** in the **Koçtaş S.T.E.P.** program with the "Koçtaş Kids" project.
+- 💻 **Product Management:** Experienced in Agile methodologies, sprint tracking, and cross-functional coordination at **Softtech** and **Medibulut**.
+- 🛡️ **Cybersecurity:** Gained hands-on experience in BT system analysis and technical reporting during my internship at **Vitriol**.
+- 📈 **Business Development:** Supported B2B marketing strategies and market research at **Locomar**.
 
 ---
 
-### 📊 Yetkinlikler & Diller
-- **Beceriler:** Problem Çözme, Analitik Düşünme, Proje Yönetimi, Liderlik.
-- **Diller:** - 🇬🇧 İngilizce (Orta Seviye)
-  - 🇩🇪 Almanca (Başlangıç Seviyesi)
+### 🛠️ Professional Experience
+- **Medibulut:** Product Management, CRM Data Analysis, and Operational Efficiency.
+- **Softtech:** Agile Process Management, Metric Analysis, and Reporting.
+- **Koçtaş:** Field Operations, Inventory Management, and Award-winning Project Development.
+- **Arvato:** Warehouse Operations and Process Management.
+- **Locomar:** B2B Marketing Processes and Business Development Assistance.
+- **Vitriol:** Cybersecurity Internship and Technical Reporting.
+- **Migros:** Customer Service and Store Operations Management.
+- **DenizBank:** Banking Operations and Financial Sector Insights.
 
 ---
 
-### 📫 Bana Ulaşın
+### 📊 Skills & Languages
+- **Soft Skills:** Problem Solving, Analytical Thinking, Project Management, Leadership.
+- **Languages:** - 🇬🇧 **English:** Intermediate
+  - 🇩🇪 **German:** Elementary
+
+---
+
+### 📫 Connect with Me
 - 💼 **LinkedIn:** [Asil Doğukan Samay](https://www.linkedin.com/in/asil-doğukan-samay/)
-- 📧 **E-posta:** dogukan_sam_ay@hotmail.com
+- 📧 **Email:** dogukan_sam_ay@hotmail.com
 
 ---
 
-### 📈 GitHub İstatistiklerim
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AsilDogukanSamay&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-### 🛠️ Kullandığım Teknolojiler
+### 🛠️ Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsilDogukanSamay&layout=compact&theme=radical" alt="Top Langs" />
 </p>
