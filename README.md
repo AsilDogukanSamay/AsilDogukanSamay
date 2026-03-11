@@ -18,10 +18,8 @@ I am an MIS student passionate about bridging the gap between business strategy 
 - **Medibulut:** Product Management, CRM Data Analysis, and Operational Efficiency.
 - **Softtech:** Agile Process Management, Metric Analysis, and Reporting.
 - **Koçtaş:** Field Operations, Inventory Management, and Award-winning Project Development.
-- **Arvato:** Warehouse Operations and Process Management.
 - **Locomar:** B2B Marketing Processes and Business Development Assistance.
 - **Vitriol:** Cybersecurity Internship and Technical Reporting.
-- **Migros:** Customer Service and Store Operations Management.
 - **DenizBank:** Banking Operations and Financial Sector Insights.
 
 ---
