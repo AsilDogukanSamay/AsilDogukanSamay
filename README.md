@@ -26,7 +26,7 @@ I am an MIS student passionate about bridging the gap between business strategy 
 
 ### 📊 Skills & Languages
 - **Soft Skills:** Problem Solving, Analytical Thinking, Project Management, Leadership.
-- **Languages:**:
+- **Languages:**
 🇹🇷 **Turkish:** Native
 - 🇬🇧 **English:** Intermediate
 - 🇩🇪 **German:** Elementary
